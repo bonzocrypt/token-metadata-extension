@@ -1,7 +1,19 @@
 {
-  "name": "Hellsbells",
+  "name": "HELLSBELLS BONZ Coin",
   "symbol": "HELLSBELLS",
-  "uri": "https://raw.githubusercontent.com/bonzocrypt/hellsbells/main/images/hellsbells_logo.png",
-  "seller_fee_basis_points": 0,
-  "creators": null
+  "description": "The official token for HELLSBELLS MEME Coin. A Solana-based memecoin destined to rock the charts.",
+  "image": "https://raw.githubusercontent.com/bonzocrypt/eventpricing.github.io/main/images/hellsbellslogo.jpg",
+  "extensions": {
+    "website": "https://bonzcoin.io",
+    "twitter": "https://twitter.com/bonzocrypt"
+  },
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "91Fvqpbz5LCtjWVr7cab8FVPtvMhRQVtxRDGy5DTqrGS",
+        "share": 100
+      }
+    ]
+  }
 }
